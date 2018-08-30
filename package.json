@@ -1,6 +1,7 @@
 {
   "name": "fbjs-build",
   "private": true,
+  "version": "0.0.1",
   "license": "MIT",
   "devDependencies": {
     "babel-eslint": "^7.2.3",
